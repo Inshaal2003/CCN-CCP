@@ -10,7 +10,7 @@ This is a repository which will contain our CCN Topology and Configuration
 6. STP(Done by Hudaib) D
 7. Static Routing(Done by hudaib) D
 8. Telnet (Done by me and Hudaib) D
-9. Acl (Not done)
+9. Acl (Done) D
 11. FTP (Done) D
 12. RIP (Partially Done) D
 13. DHCP (Done) D
